@@ -14,7 +14,7 @@ The core building block of the 2-bit ripple carry adder is the **f121** full add
 
 ## RESULT
 
-                               outputs
+                              
 ![image](https://github.com/ARX-0/f121-r121-ripple_carry_adder-/assets/143102635/1c9cdf4b-acc0-4a4c-85f4-6f34d6920664)
 
 
@@ -24,5 +24,5 @@ The r121 module is a 2-bit ripple carry adder that utilizes two f121 full adders
 
 ## RESULT
 
-                              outputs   
+                             
 ![image](https://github.com/ARX-0/f121-r121-ripple_carry_adder-/assets/143102635/84e292c9-6e23-4ccd-8ed7-1ec644b20281)
