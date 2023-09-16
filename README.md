@@ -7,7 +7,7 @@ The **r121** is a 2-bit ripple carry adder implemented in Verilog, constructed b
 The core building block of the 2-bit ripple carry adder is the **f121** full adder module. This module takes three inputs: A, B, and Cin (carry-in), and produces two outputs: Sum and Cout (carry-out). It is responsible for adding two bits along with a carry-in bit.
 
 ### Truth Table for Full Adder f121
-                                  truth table
+                                  
 
 ![image](https://github.com/ARX-0/f121-r121-ripple_carry_adder-/assets/143102635/743a2da0-e574-4947-8524-906729dc1b03)
 
